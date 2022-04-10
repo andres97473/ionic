@@ -1,0 +1,2 @@
+>>crear proyecto de ionic
+ionic start
